@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2",
-  "downloadUrl": "https://github.com/yguygyuguyuguy/noor-al-kalima-updates/releases/download/v1.2.0/NoorAlKalima-user-1.2.apk",
+  "versionCode": 4,
+  "versionName": "1.3.0",
+  "downloadUrl": "https://github.com/yguygyuguyuguy/noor-al-kalima-updates/releases/download/v1.3.0/NoorAlKalima-user-1.3.0.apk",
   "forceUpdate": false,
-  "message": "تم توحيد التنقل وإضافة صفحات Fragments بتصميم موحد"
-}
+  "message": "إضافة وضع التركيز وتحسين تجربة القراءة"
+}\n
